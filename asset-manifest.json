@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/vk-apps-image-example/static/js/main.977e4e5d.chunk.js",
-    "main.js.map": "/vk-apps-image-example/static/js/main.977e4e5d.chunk.js.map",
-    "runtime-main.js": "/vk-apps-image-example/static/js/runtime-main.eea6fb47.js",
-    "runtime-main.js.map": "/vk-apps-image-example/static/js/runtime-main.eea6fb47.js.map",
-    "static/css/2.09e62520.chunk.css": "/vk-apps-image-example/static/css/2.09e62520.chunk.css",
-    "static/js/2.dcbeeda0.chunk.js": "/vk-apps-image-example/static/js/2.dcbeeda0.chunk.js",
-    "static/js/2.dcbeeda0.chunk.js.map": "/vk-apps-image-example/static/js/2.dcbeeda0.chunk.js.map",
-    "index.html": "/vk-apps-image-example/index.html",
-    "precache-manifest.caf8e0c819ff6398c4cb7aa0e4b67350.js": "/vk-apps-image-example/precache-manifest.caf8e0c819ff6398c4cb7aa0e4b67350.js",
-    "service-worker.js": "/vk-apps-image-example/service-worker.js",
-    "static/css/2.09e62520.chunk.css.map": "/vk-apps-image-example/static/css/2.09e62520.chunk.css.map",
-    "static/js/2.dcbeeda0.chunk.js.LICENSE.txt": "/vk-apps-image-example/static/js/2.dcbeeda0.chunk.js.LICENSE.txt"
+    "main.js": "/VK-Apps-Image-Example/static/js/main.977e4e5d.chunk.js",
+    "main.js.map": "/VK-Apps-Image-Example/static/js/main.977e4e5d.chunk.js.map",
+    "runtime-main.js": "/VK-Apps-Image-Example/static/js/runtime-main.eb1b30a3.js",
+    "runtime-main.js.map": "/VK-Apps-Image-Example/static/js/runtime-main.eb1b30a3.js.map",
+    "static/css/2.09e62520.chunk.css": "/VK-Apps-Image-Example/static/css/2.09e62520.chunk.css",
+    "static/js/2.62736122.chunk.js": "/VK-Apps-Image-Example/static/js/2.62736122.chunk.js",
+    "static/js/2.62736122.chunk.js.map": "/VK-Apps-Image-Example/static/js/2.62736122.chunk.js.map",
+    "index.html": "/VK-Apps-Image-Example/index.html",
+    "precache-manifest.55c715af9d077a368ef4cca6136f12c4.js": "/VK-Apps-Image-Example/precache-manifest.55c715af9d077a368ef4cca6136f12c4.js",
+    "service-worker.js": "/VK-Apps-Image-Example/service-worker.js",
+    "static/css/2.09e62520.chunk.css.map": "/VK-Apps-Image-Example/static/css/2.09e62520.chunk.css.map",
+    "static/js/2.62736122.chunk.js.LICENSE.txt": "/VK-Apps-Image-Example/static/js/2.62736122.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eea6fb47.js",
+    "static/js/runtime-main.eb1b30a3.js",
     "static/css/2.09e62520.chunk.css",
-    "static/js/2.dcbeeda0.chunk.js",
+    "static/js/2.62736122.chunk.js",
     "static/js/main.977e4e5d.chunk.js"
   ]
 }
